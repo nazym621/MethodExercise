@@ -9,7 +9,7 @@ namespace MethodExercise
             Console.WriteLine("what is your name");
             var personName = Console.ReadLine();
 
-            Console.WriteLine("My name is {personName}");
+            Console.WriteLine($"My name is {personName}");
 
 
            Console.WriteLine("what is your favorite color?");
